@@ -2,9 +2,7 @@
 
 ## View Deployment
 
-
-![Crypto-Landing-Demo](https://user-images.githubusercontent.com/64481454/214882050-81de06a7-35ac-40be-8e1f-6d138fe1adf9.jpg)
-
+![Crypto-Landing-Demo](https://user-images.githubusercontent.com/64481454/214885719-9b99b3c2-df55-4e3b-b198-1b823307a4f3.jpg)
 
 ## Languages
 
