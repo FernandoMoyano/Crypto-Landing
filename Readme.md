@@ -53,7 +53,7 @@ This small platform is also in charge of showing the current prices and the fluc
    ### _Typography
    
    ``` css
-    --ff-poppins: 'Poppins', sans-serif;
+   --ff-poppins: 'Poppins', sans-serif;
    --ff-open-sans: 'Open Sans', sans-serif;
  
    ```
@@ -89,6 +89,22 @@ This small platform is also in charge of showing the current prices and the fluc
   ```css
   --shadow: 0 10px 30px hsla(0, 0%, 0%, 0.1);
   ```
+  
+  ### _Radius_
+  ```css
+   --radius-pill: 500px;
+   --radius-circle: 50%;
+   --radius-5: 5px;
+   --radius-8: 8px;
+   --radius-16: 16px;
+  ```
+  
+  ### _Transition_
+  ````css
+   --transition: 0.25s ease;
+   --cubic-in: cubic-bezier(0.51, 0.03, 0.64, 0.28);
+   --cubic-out: cubic-bezier(0.33, 0.85, 0.4, 0.96);
+   ```
    
    
 
