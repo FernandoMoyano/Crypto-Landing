@@ -27,7 +27,8 @@ This small platform is also in charge of showing the current prices and the fluc
 >The premium icon font for Ionic Framework.
 100% free and open source. MIT Licensed.
 
-##_Style Guide_
+## _Style Guide_
+
 ### _Colors_
 
 ``` css
