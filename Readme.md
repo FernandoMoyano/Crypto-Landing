@@ -21,3 +21,8 @@ This small platform is also in charge of showing the current prices and the fluc
    <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  
 </div>
+
+## _Resources_
+[Ion icons](https://ionic.io/ionicons/v2/)
+>The premium icon font for Ionic Framework.
+100% free and open source. MIT Licensed.
