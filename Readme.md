@@ -50,14 +50,14 @@ This small platform is also in charge of showing the current prices and the fluc
    --onyx-1: hsl(0, 0%, 23%);
    --onyx-2: hsl(0, 0%, 20%);
    ```
-   ### _Typography
+   ### _Typography_
    
    ``` css
    --ff-poppins: 'Poppins', sans-serif;
    --ff-open-sans: 'Open Sans', sans-serif;
  
    ```
-   ### _Font-size
+   ### _Font-size_
    
    ``` css
       --fs-1: calc(2.3rem + 2.1vw);
